@@ -29,9 +29,9 @@ This tool is useful for tracking time spent on various activities like studying,
 
 ## 🛠 Technologies Used
 
-**HTML5**: Structure of the web page
-**CSS3**: Styling and layout
-**JavaScript**: Functionality and interactivity
+- **HTML5**: Structure of the web page
+- **CSS3**: Styling and layout
+- **JavaScript**: Functionality and interactivity
 
 ---
 
