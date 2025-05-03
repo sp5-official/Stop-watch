@@ -3,7 +3,7 @@
 A simple and responsive stopwatch web application developed using **HTML5**, **CSS3**, and **JavaScript**.
 This project was created as part of a task provided by **PRODIGY INFOTECH** during a web development internship.
 
-🔗 **Live Demo**: https://github.com/sp5-official/Stop-watch
+🔗 **Live Demo**: https://github.com/sp5-official/Stop-watch/index.html
 
 ---
 
